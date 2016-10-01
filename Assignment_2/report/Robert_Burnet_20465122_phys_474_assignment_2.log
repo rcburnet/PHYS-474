@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.4.27)  25 SEP 2016 17:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.4.27)  26 SEP 2016 16:47
 entering extended mode
 **Robert_Burnet_20465122_phys_474_assignment_2.tex
 (Robert_Burnet_20465122_phys_474_assignment_2.tex
@@ -1090,13 +1090,6 @@ e same identifier (name{equation.0.1}) has been already used, duplicate ignored
                    \relax 
 l.143 \item \begin{equation}
                             \nonumber
-
-LaTeX Warning: Command \L invalid in math mode on input line 148.
-
-
-LaTeX Warning: Command \L invalid in math mode on input line 148.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 149--152
 
  []
@@ -1186,118 +1179,354 @@ l.190 \begin{equation}
 <to be read again> 
                    \relax 
 l.190 \begin{equation}
-                      \nonumber
-Underfull \hbox (badness 10000) in paragraph at lines 200--203
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 204--205
-
- []
-
-[4] <a02q2ae.png, id=110, 578.16pt x 433.62pt>
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.200 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.200 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.200 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.200 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.203 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.203 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.203 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.203 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.206 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.206 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.206 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.206 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.210 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.210 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.210 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.210 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.214 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.214 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.214 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.214 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.217 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.217 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.217 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.217 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.222 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.222 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.222 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.222 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.229 as in e), \begin{equation}
+                                \nonumberpdfTeX warning (ext4): destination wit
+h the same identifier (name{equation.0.1}) has been already used, duplicate ign
+ored
+<to be read again> 
+                   \relax 
+l.229 as in e), \begin{equation}
+                                \nonumberpdfTeX warning (ext4): destination wit
+h the same identifier (name{equation.0.1}) has been already used, duplicate ign
+ored
+<to be read again> 
+                   \relax 
+l.229 as in e), \begin{equation}
+                                \nonumberpdfTeX warning (ext4): destination wit
+h the same identifier (name{equation.0.1}) has been already used, duplicate ign
+ored
+<to be read again> 
+                   \relax 
+l.229 as in e), \begin{equation}
+                                \nonumberpdfTeX warning (ext4): destination wit
+h the same identifier (name{equation.0.1}) has been already used, duplicate ign
+ored
+<to be read again> 
+                   \relax 
+l.237 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.237 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.237 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.237 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.240 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.240 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.240 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.240 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.243 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.243 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.243 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.243 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.250 as in e), \begin{equation}
+                                \nonumberpdfTeX warning (ext4): destination wit
+h the same identifier (name{equation.0.1}) has been already used, duplicate ign
+ored
+<to be read again> 
+                   \relax 
+l.250 as in e), \begin{equation}
+                                \nonumberpdfTeX warning (ext4): destination wit
+h the same identifier (name{equation.0.1}) has been already used, duplicate ign
+ored
+<to be read again> 
+                   \relax 
+l.250 as in e), \begin{equation}
+                                \nonumberpdfTeX warning (ext4): destination wit
+h the same identifier (name{equation.0.1}) has been already used, duplicate ign
+ored
+<to be read again> 
+                   \relax 
+l.250 as in e), \begin{equation}
+                                \nonumber [4]
+<a02q2ae.png, id=82, 578.16pt x 433.62pt>
 File: a02q2ae.png Graphic file (type png)
  <use a02q2ae.png>
-Package pdftex.def Info: a02q2ae.png used on input line 256.
-(pdftex.def)             Requested size: 578.15858pt x 433.61894pt.
+Package pdftex.def Info: a02q2ae.png used on input line 306.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
 
-Overfull \hbox (36.13358pt too wide) in paragraph at lines 256--257
-[][] 
- []
 
-pdfTeX warning (ext4): destination with the same identifier (name{equation.0.1}
-) has been already used, duplicate ignored
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5]pdfTeX warning (ext4): destination with the same identifier (name{equation.0
+.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.261 \item \begin{equation}
+l.311 \item \begin{equation}
                             \nonumberpdfTeX warning (ext4): destination with th
 e same identifier (name{equation.0.1}) has been already used, duplicate ignored
 
 <to be read again> 
                    \relax 
-l.261 \item \begin{equation}
+l.311 \item \begin{equation}
                             \nonumberpdfTeX warning (ext4): destination with th
 e same identifier (name{equation.0.1}) has been already used, duplicate ignored
 
 <to be read again> 
                    \relax 
-l.261 \item \begin{equation}
+l.311 \item \begin{equation}
                             \nonumberpdfTeX warning (ext4): destination with th
 e same identifier (name{equation.0.1}) has been already used, duplicate ignored
 
 <to be read again> 
                    \relax 
-l.261 \item \begin{equation}
+l.311 \item \begin{equation}
                             \nonumberpdfTeX warning (ext4): destination with th
 e same identifier (name{equation.0.1}) has been already used, duplicate ignored
 
 <to be read again> 
                    \relax 
-l.265 \begin{equation}
+l.315 \begin{equation}
                       \nonumberpdfTeX warning (ext4): destination with the same
  identifier (name{equation.0.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.265 \begin{equation}
+l.315 \begin{equation}
                       \nonumberpdfTeX warning (ext4): destination with the same
  identifier (name{equation.0.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.265 \begin{equation}
+l.315 \begin{equation}
                       \nonumberpdfTeX warning (ext4): destination with the same
  identifier (name{equation.0.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.265 \begin{equation}
+l.315 \begin{equation}
                       \nonumberpdfTeX warning (ext4): destination with the same
  identifier (name{equation.0.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.268 \begin{equation}
+l.318 \begin{equation}
                       \nonumberpdfTeX warning (ext4): destination with the same
  identifier (name{equation.0.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.268 \begin{equation}
+l.318 \begin{equation}
                       \nonumberpdfTeX warning (ext4): destination with the same
  identifier (name{equation.0.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.268 \begin{equation}
+l.318 \begin{equation}
                       \nonumberpdfTeX warning (ext4): destination with the same
  identifier (name{equation.0.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.268 \begin{equation}
-                      \nonumber [5 <./a02q2ae.png>]pdfTeX warning (ext4): desti
-nation with the same identifier (name{equation.0.1}) has been already used, dup
-licate ignored
-<to be read again> 
-                   \relax 
-l.272 \begin{equation}
+l.318 \begin{equation}
                       \nonumberpdfTeX warning (ext4): destination with the same
  identifier (name{equation.0.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.272 \begin{equation}
+l.322 \begin{equation}
                       \nonumberpdfTeX warning (ext4): destination with the same
  identifier (name{equation.0.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.272 \begin{equation}
+l.322 \begin{equation}
                       \nonumberpdfTeX warning (ext4): destination with the same
  identifier (name{equation.0.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.272 \begin{equation}
+l.322 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.322 \begin{equation}
                       \nonumber
-Underfull \hbox (badness 10000) in paragraph at lines 274--276
+Underfull \hbox (badness 10000) in paragraph at lines 324--326
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--278
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
 
  []
 
@@ -1305,191 +1534,29 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.0.1}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.278 \begin{equation}
+l.328 \begin{equation}
                       \nonumberpdfTeX warning (ext4): destination with the same
  identifier (name{equation.0.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.278 \begin{equation}
+l.328 \begin{equation}
                       \nonumberpdfTeX warning (ext4): destination with the same
  identifier (name{equation.0.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.278 \begin{equation}
+l.328 \begin{equation}
                       \nonumberpdfTeX warning (ext4): destination with the same
  identifier (name{equation.0.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.278 \begin{equation}
+l.328 \begin{equation}
                       \nonumber
-Underfull \hbox (badness 10000) in paragraph at lines 280--282
+Underfull \hbox (badness 10000) in paragraph at lines 330--332
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 285--286
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 286--287
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--288
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 290--291
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 292--295
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 296--297
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 298--299
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 300--301
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 302--303
-
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{equation.0.1}
-) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.304 \item \begin{equation}
-                            \nonumberpdfTeX warning (ext4): destination with th
-e same identifier (name{equation.0.1}) has been already used, duplicate ignored
-
-<to be read again> 
-                   \relax 
-l.304 \item \begin{equation}
-                            \nonumberpdfTeX warning (ext4): destination with th
-e same identifier (name{equation.0.1}) has been already used, duplicate ignored
-
-<to be read again> 
-                   \relax 
-l.304 \item \begin{equation}
-                            \nonumberpdfTeX warning (ext4): destination with th
-e same identifier (name{equation.0.1}) has been already used, duplicate ignored
-
-<to be read again> 
-                   \relax 
-l.304 \item \begin{equation}
-                            \nonumberpdfTeX warning (ext4): destination with th
-e same identifier (name{equation.0.1}) has been already used, duplicate ignored
-
-<to be read again> 
-                   \relax 
-l.307 \begin{equation}
-                      \nonumberpdfTeX warning (ext4): destination with the same
- identifier (name{equation.0.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.307 \begin{equation}
-                      \nonumberpdfTeX warning (ext4): destination with the same
- identifier (name{equation.0.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.307 \begin{equation}
-                      \nonumberpdfTeX warning (ext4): destination with the same
- identifier (name{equation.0.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.307 \begin{equation}
-                      \nonumberpdfTeX warning (ext4): destination with the same
- identifier (name{equation.0.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.315 \begin{equation}
-                      \nonumberpdfTeX warning (ext4): destination with the same
- identifier (name{equation.0.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.315 \begin{equation}
-                      \nonumberpdfTeX warning (ext4): destination with the same
- identifier (name{equation.0.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.315 \begin{equation}
-                      \nonumberpdfTeX warning (ext4): destination with the same
- identifier (name{equation.0.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.315 \begin{equation}
-                      \nonumber
-Underfull \hbox (badness 10000) in paragraph at lines 319--320
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 321--322
-
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{equation.0.1}
-) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.323 \begin{equation}
-                      \nonumberpdfTeX warning (ext4): destination with the same
- identifier (name{equation.0.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.323 \begin{equation}
-                      \nonumberpdfTeX warning (ext4): destination with the same
- identifier (name{equation.0.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.323 \begin{equation}
-                      \nonumberpdfTeX warning (ext4): destination with the same
- identifier (name{equation.0.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.323 \begin{equation}
-                      \nonumberpdfTeX warning (ext4): destination with the same
- identifier (name{equation.0.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.327 \item \begin{equation}
-                            \nonumberpdfTeX warning (ext4): destination with th
-e same identifier (name{equation.0.1}) has been already used, duplicate ignored
-
-<to be read again> 
-                   \relax 
-l.327 \item \begin{equation}
-                            \nonumberpdfTeX warning (ext4): destination with th
-e same identifier (name{equation.0.1}) has been already used, duplicate ignored
-
-<to be read again> 
-                   \relax 
-l.327 \item \begin{equation}
-                            \nonumberpdfTeX warning (ext4): destination with th
-e same identifier (name{equation.0.1}) has been already used, duplicate ignored
-
-<to be read again> 
-                   \relax 
-l.327 \item \begin{equation}
-                            \nonumber [6]
-Underfull \hbox (badness 10000) in paragraph at lines 333--335
+Underfull \hbox (badness 10000) in paragraph at lines 335--336
 
  []
 
@@ -1498,28 +1565,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 336--337
 
  []
 
-pdfTeX warning (ext4): destination with the same identifier (name{equation.0.1}
-) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.337 \begin{equation}
-                      \nonumberpdfTeX warning (ext4): destination with the same
- identifier (name{equation.0.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.337 \begin{equation}
-                      \nonumberpdfTeX warning (ext4): destination with the same
- identifier (name{equation.0.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.337 \begin{equation}
-                      \nonumberpdfTeX warning (ext4): destination with the same
- identifier (name{equation.0.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.337 \begin{equation}
-                      \nonumber
-Underfull \hbox (badness 10000) in paragraph at lines 342--344
+
+Underfull \hbox (badness 10000) in paragraph at lines 337--338
+
+ []
+
+[6 <./a02q2ae.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 340--341
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--345
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--347
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--349
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 350--351
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--353
 
  []
 
@@ -1527,29 +1604,181 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.0.1}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.344 \begin{equation}
+l.354 \item \begin{equation}
+                            \nonumberpdfTeX warning (ext4): destination with th
+e same identifier (name{equation.0.1}) has been already used, duplicate ignored
+
+<to be read again> 
+                   \relax 
+l.354 \item \begin{equation}
+                            \nonumberpdfTeX warning (ext4): destination with th
+e same identifier (name{equation.0.1}) has been already used, duplicate ignored
+
+<to be read again> 
+                   \relax 
+l.354 \item \begin{equation}
+                            \nonumberpdfTeX warning (ext4): destination with th
+e same identifier (name{equation.0.1}) has been already used, duplicate ignored
+
+<to be read again> 
+                   \relax 
+l.354 \item \begin{equation}
+                            \nonumberpdfTeX warning (ext4): destination with th
+e same identifier (name{equation.0.1}) has been already used, duplicate ignored
+
+<to be read again> 
+                   \relax 
+l.357 \begin{equation}
                       \nonumberpdfTeX warning (ext4): destination with the same
  identifier (name{equation.0.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.344 \begin{equation}
+l.357 \begin{equation}
                       \nonumberpdfTeX warning (ext4): destination with the same
  identifier (name{equation.0.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.344 \begin{equation}
+l.357 \begin{equation}
                       \nonumberpdfTeX warning (ext4): destination with the same
  identifier (name{equation.0.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.344 \begin{equation}
+l.357 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.365 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.365 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.365 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.365 \begin{equation}
+                      \nonumber
+Underfull \hbox (badness 10000) in paragraph at lines 369--370
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 371--372
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{equation.0.1}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.373 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.373 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.373 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.373 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.377 \item \begin{equation}
+                            \nonumberpdfTeX warning (ext4): destination with th
+e same identifier (name{equation.0.1}) has been already used, duplicate ignored
+
+<to be read again> 
+                   \relax 
+l.377 \item \begin{equation}
+                            \nonumberpdfTeX warning (ext4): destination with th
+e same identifier (name{equation.0.1}) has been already used, duplicate ignored
+
+<to be read again> 
+                   \relax 
+l.377 \item \begin{equation}
+                            \nonumberpdfTeX warning (ext4): destination with th
+e same identifier (name{equation.0.1}) has been already used, duplicate ignored
+
+<to be read again> 
+                   \relax 
+l.377 \item \begin{equation}
+                            \nonumber
+Underfull \hbox (badness 10000) in paragraph at lines 383--385
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 386--387
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{equation.0.1}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.387 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.387 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.387 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.387 \begin{equation}
+                      \nonumber
+Underfull \hbox (badness 10000) in paragraph at lines 392--394
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{equation.0.1}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.394 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.394 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.394 \begin{equation}
+                      \nonumberpdfTeX warning (ext4): destination with the same
+ identifier (name{equation.0.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.394 \begin{equation}
                       \nonumber [7]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 355.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 355.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 405.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 405.
 
 (Robert_Burnet_20465122_phys_474_assignment_2.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 355.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 355.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 405.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 405.
 Package rerunfilecheck Info: File `Robert_Burnet_20465122_phys_474_assignment_2
 .out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
@@ -1557,13 +1786,13 @@ Package rerunfilecheck Info: File `Robert_Burnet_20465122_phys_474_assignment_2
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 355.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 405.
  ) 
 Here is how much of TeX's memory you used:
- 20305 strings out of 493671
- 360667 string characters out of 3143859
- 661495 words of memory out of 3000000
- 23188 multiletter control sequences out of 15000+200000
+ 20302 strings out of 493671
+ 360630 string characters out of 3143859
+ 702495 words of memory out of 3000000
+ 23185 multiletter control sequences out of 15000+200000
  12119 words of font info for 47 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  55i,26n,76p,455b,2079s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1582,8 +1811,9 @@ eX 2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Program Files/MiKTeX 2.9/fo
 nts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 /public/amsfonts/latxfont/line10.pfb>
 Output written on Robert_Burnet_20465122_phys_474_assignment_2.pdf (7 pages, 22
-4918 bytes).
+7163 bytes).
 PDF statistics:
  216 PDF objects out of 1000 (max. 8388607)
  101 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
+

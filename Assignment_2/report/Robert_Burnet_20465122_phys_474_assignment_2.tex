@@ -51,7 +51,7 @@
 }
 
 \begin{document}
-\title{\scshape\LARGE University of Waterloo \vfill \huge\bfseries PHYS 474 Assignment 1 \vfill}
+\title{\scshape\LARGE University of Waterloo \vfill \huge\bfseries PHYS 474 Assignment 2 \vfill}
 \author{Robert Burnet \\ rcburnet@uwaterloo.ca \\ 20465122 }
 \maketitle
 
@@ -143,7 +143,7 @@ Therefore, they make up about 91\% of the luminosity density of the universe.
 \item \begin{equation}\nonumber
 \begin{split}
 \frac{0.3 \rho_{crit}}{\rho_{L>0}} & = \frac{0.3\left(\frac{3H_0^2}{8 \pi G}\right)}{3.62\times10^{8}}\\
- & = 2.24 \times 10^{32} kg\L_\odot\\
+ & = 2.24 \times 10^{32} kg/L_\odot\\
  & = \textbf{112.7 M$_\odot$/L$_\odot$}
 \end{split}
 \end{equation}
@@ -181,29 +181,79 @@ M_{universe} = M_{DM, universe}\\
 \begin{equation}\nonumber
 \begin{split}
 \rho & = 200\rho_{crit}\\
- & = 200(0.3\left(\frac{3 H_0^2}{8 \pi G}\right))\\
- & = 1.6225 \times 10^{43} \text{kg/Mpc}^3\\
- & = 8.1575 \times 10^{12} M_\odot/\text{Mpc}^3
+ & = 200(\left(\frac{3 H_0^2}{8 \pi G}\right))\\
+ & = 5.4083 \times 10^{43} \text{kg/Mpc}^3\\
+ & = 2.7192 \times 10^{13} M_\odot/\text{Mpc}^3
 \end{split}
 \end{equation}
 
 \begin{equation}\nonumber
 \begin{split}
 \rho & = \frac{M}{V}\\
-8.1575\times10^{12}M_\odot/\text{Mpc}^3 & = \frac{1.127\times10^{13}M_\odot}{\frac{4}{3} \pi R^3}\\
-R & = \sqrt[3]{\frac{1.127\times10^{13}}{8.1575\times10^{12}}\left(\frac{3}{4\pi}\right)}\\
- & = \textbf{0.691 Mpc}\\
+2.71920\times10^{13}M_\odot/\text{Mpc}^3 & = \frac{1.127\times10^{13}M_\odot}{\frac{4}{3} \pi R^3}\\
+R & = \sqrt[3]{\frac{1.127\times10^{13}}{2.7192 \times10^{13}}\left(\frac{3}{4\pi}\right)}\\
+ & = \textbf{0.463 Mpc}\\
 \end{split}
 \end{equation}
 
 \item 
-$M_K = -24.0$\\
-$M_{bol} - M_{bol,\odot} = -2.5 log \left(\frac{L}{L_\odot}\right)$\\
-$M_{bol} = BC_K - M_K$\\
+\begin{equation}\nonumber
+M_{K,MW} = -24.0\\
+\end{equation}
+\begin{equation}\nonumber
+M_{V, \odot} - M_{K, \odot} = V_\odot - K_\odot\\
+\end{equation}
+\begin{equation}\nonumber
+4.83 - M_{K, \odot} = 1.52 \text{ (From Table 1.4)}\\
+\end{equation}
+Therefore, 
+\begin{equation}\nonumber
+M_{K, \odot} = 3.31\\
+\end{equation}
 
-etc...\\
+\begin{equation}\nonumber
+M_{K, MW} = M_{K, \odot} - 2.5 log \left(\frac{L}{L_\odot}\right)\\
+\end{equation}
+\begin{equation}\nonumber
+\Rightarrow \frac{L_{MW}}{L_\odot} = 10^{0.4(3.31 - M_{K, MW})}\\
+\end{equation}
+
+Therefore, 
+\begin{equation}\nonumber
+\begin{split}
+L_{MW} & = \textbf{8.39$\times$10$^{10} L_\odot$}\\
+ & = \textbf{0.839 $L_*$}\\
+\end{split}
+\end{equation}
+
+as in e), \begin{equation}\nonumber
+\begin{split}
+R & = \sqrt[3]{\frac{112.7\times0.839\times10^{11}}{2.7192 \times10^{13}}\left(\frac{3}{4\pi}\right)}\\
+ & = \textbf{0.436 Mpc}\\
+\end{split}
+\end{equation}
 
 \item
+\begin{equation}\nonumber
+M_{K, M31} = -24.5\\
+\end{equation}
+\begin{equation}\nonumber
+\frac{L_{M31}}{L_\odot} = 10^{0.4(3.31 - M_{K, M31})}\\
+\end{equation}
+\begin{equation}\nonumber
+\begin{split}
+L_{M31} & = \textbf{1.33 $\times$ 10$^{11} L_\odot$}\\
+ & = \textbf{1.33 $L_*$}\\
+\end{split}
+\end{equation}
+
+as in e), \begin{equation}\nonumber
+\begin{split}
+R & = \sqrt[3]{\frac{112.7\times1.33\times10^{11}}{2.7192 \times10^{13}}\left(\frac{3}{4\pi}\right)}\\
+ & = \textbf{0.509 Mpc}\\
+\end{split}
+\end{equation}
+
 
 \end{enumerate}
 
@@ -221,7 +271,7 @@ slope, intercept, r_value, p_value, std_err = stats.linregress(log_cz, m)
 
 std_dev = np.std(m)
 
-print "r_squared with fitted slope:", r_value**2
+print "std_err with fitted slope:", std_err
 print "fitted slope:", slope
 print "intercept with fitted slope:", intercept
 
@@ -251,12 +301,12 @@ plt.xlabel('log$_{10}$($\\frac{cz}{[km/s]}$)')
 plt.savefig('a02q2ae.png')
 \end{lstlisting}
 
-\begin{center}
 \begin{figure}[h!]
-\includegraphics[scale=1]{a02q2ae.png}
+\centering
+\includegraphics[scale=0.8]{a02q2ae.png}
 \end{figure}
-\end{center}
 
+\newpage
 
 \item \begin{equation}\nonumber
 M = m - 5 log \left(\frac{d}{10}\right)
@@ -289,13 +339,13 @@ Where $h = \frac{H_0}{100 \text{km/s/Mpc}}$\\
 
 \item from output of code above in a):\\
 
-$r^2$ = 0.9817 (statistical uncertainty of linear regression)\\
+standard error = 0.2188 (statistical uncertainty of slope)\\
 slope = 5.065 $\approx$ 5.1\\
 intercept = -3.580\\
 
-Our expectations are a slope of 5.0, I get a slope of 5.1 which is not consistent with out expectations.\\
+Our expectations are a slope of 5.0, I get a slope of 5.1 which, with a standard error of 0.2188, is consistent with our expectations.\\
 
-With fixed slope of 5.0, I get an intercept of -3.316, with standard deviation (uncertainty) of 0.151.\\
+With fixed slope of 5.0, I get an intercept of -3.316, with standard deviation (uncertainty of intercept) of 0.151.\\
 
 The standard deviation in magnitudes of the points is 1.114.\\
 

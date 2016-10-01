@@ -46,7 +46,7 @@ slope, intercept, r_value, p_value, std_err = stats.linregress(log_cz, m)
 
 std_dev = np.std(m)
 
-print "r_squared with fitted slope:", r_value**2
+print "std_err with fitted slope:", std_err
 print "fitted slope:", slope
 print "intercept with fitted slope:", intercept
 
